@@ -1,0 +1,5 @@
+# Created by .ignore support plugin (hsz.mobi)
+.idea
+src/libs/__pycache__
+src/module/__pycache__
+Untitled.ipynb
